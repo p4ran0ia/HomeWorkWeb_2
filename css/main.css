@@ -1,0 +1,17 @@
+body {
+        background-color: aquamarine;
+}
+
+h1 {
+    color: red;
+}
+
+.list1 {
+    color: blue;
+    font-size: 26px;
+}
+
+.list2 {
+    color: blueviolet;
+    font-size: 30px;
+}
